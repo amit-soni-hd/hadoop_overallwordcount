@@ -1,0 +1,3 @@
+com/example/hadoop/overallwordcount/MyMapper.class
+com/example/hadoop/overallwordcount/MyReducer.class
+com/example/hadoop/overallwordcount/AllWordCount.class
